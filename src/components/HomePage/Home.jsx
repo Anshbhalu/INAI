@@ -15,7 +15,7 @@ import BlogSection from '../BlogSection.jsx';
 import Reviews from '../../pages/Reviews.jsx';
 import WhatIsInaiSection from '../../pages/WhatIsInaiSection.jsx';
 import Marquee from './Marquee.jsx';
-import OurSeamless from './ourSeamless.jsx';
+import OurSeamless from './OurSeamless.jsx';
 import BlogSectionHome from '../BlogSectionHome.jsx';
 
 const Home = () => {
