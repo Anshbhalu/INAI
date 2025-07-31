@@ -3,83 +3,16 @@ import './PortfolioIntro.css';
 
 import authorImage from '../assets/user1.jpg';
 import gridImage1 from '../assets/inai post.jpg';
-import gridImage2 from '../assets/influwket.jpg';
-import gridImage3 from '../assets/offiket.jpg';
-import gridImage4 from '../assets/veedket.jpg';
+import gridImage2 from '../assets/portfolio/influwket.png';
+import gridImage3 from '../assets/portfolio/offiket.png';
+import gridImage4 from '../assets/portfolio/veedket.png';
 import Portfolio from './Portfolio';
 
 const PortfolioIntro = () => {
   return (
     <section className="portfolio-intro-section">
       <div className="container">
-        {/* <div className="portfolio-intro-header">
-          <span className="portfolio-intro-tag">INNOVATIVE AI PORTFOLIO</span>
-          <h2 className="portfolio-intro-title">
-            The Architects <br /> of Intelligent Solutions
-          </h2>
-        </div> */}
-        {/* <div className="portfolio-intro-main-grid">
-          <div className="portfolio-intro-right-col">
-            <div className="portfolio-intro-inner-grid">
-              <div className="portfolio-card image-card">
-                <a href="./pages/portfolio/inai_life"><img src={gridImage1} alt="INAI Worlds" /></a>
-              </div>
-              <div className="portfolio-card image-card">
-                <a href="./pages/portfolio/influwket"><img src={gridImage2} alt="INFLUWKET" /></a>
-              </div>
-              <div className="portfolio-card image-card">
-                <a href="./pages/portfolio/offiket"><img src={gridImage3} alt="OFFIKET" /></a>
-              </div>
-              <div className="portfolio-card image-card">
-                <a href="./pages/portfolio/veedket"><img src={gridImage4} alt="VEEDKET" /></a>
-              </div>
-            </div>
-          </div>
-        </div> */}
-
-
-        {/* <section className="portfolio-intro-main-grid">
-  <div className="portfolio-intro-right-col">
-    <div className="portfolio-intro-inner-grid">
-      <div className="portfolio-card image-card">
-        <a href="./pages/portfolio/inai_life">
-          <img src={gridImage1} alt="INAI Worlds" />
-          <div className="card-content">
-            <h3>INAI : India’s First AI Virtual Model</h3>
-            <p>INAI stands as India’s first AI-based virtual assistant specially designed to understand human emotions and interact in real-time. From friendly conversations to emotional support, INAI brings intelligent companionship into everyday life.</p>
-          </div>
-        </a>
-      </div>
-      <div className="portfolio-card image-card">
-        <a href="./pages/portfolio/influwket">
-          <img src={gridImage2} alt="INFLUWKET" />
-          <div className="card-content">
-            <h3>INFLUWKET</h3>
-            <p>Marketplace for influencers</p>
-          </div>
-        </a>
-      </div>
-      <div className="portfolio-card image-card">
-        <a href="./pages/portfolio/offiket">
-          <img src={gridImage3} alt="OFFIKET" />
-          <div className="card-content">
-            <h3>OFFIKET</h3>
-            <p>Decentralized office tools</p>
-          </div>
-        </a>
-      </div>
-      <div className="portfolio-card image-card">
-        <a href="./pages/portfolio/veedket">
-          <img src={gridImage4} alt="VEEDKET" />
-          <div className="card-content">
-            <h3>VEEDKET</h3>
-            <p>Streaming meets crypto rewards</p>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
-</section> */}
+        
 
 
         <section className="zigzag-section">
