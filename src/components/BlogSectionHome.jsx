@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 import blogImg1 from '../assets/blog1.jpg';
 import blogImg2 from '../assets/blog2.jpg';
 import blogImg3 from '../assets/blog3.jpg';
-import blogImg4 from '../assets/blog4.jpg';
-import blogImg5 from '../assets/blog5.jpg';
 
 import './BlogSection.css';
 // Placeholder image
