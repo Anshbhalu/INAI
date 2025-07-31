@@ -67,7 +67,7 @@ import VishvaBackend from '../assets/Final Photos/6 Backend/Vishva-Backend Devel
 import RoshaniReception from '../assets/Final Photos/7 Reception/Roshani - Receptionist.jpg';
 
 import user1 from '../assets/emp-photos/user1.jpg';
-import jayCoFounder from '../assets/emp-photos/jaySir.jpg';
+import jayCoFounder from '../assets/emp-photos/jaySIr.jpg';
 
 const founders = [
   {
