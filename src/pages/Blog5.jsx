@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Blog.css';
-import image1 from '../assets/blog5.jpg';
+import image1 from '../assets/Blog5.jpg';
 
 const faqs = [
   {

@@ -23,7 +23,7 @@ const Footer = () => {
               <p className="footer-text">
                 <strong>Head Office :</strong><br />
                 520, MBH - 1, Sarthana Jakat Naka, <br />
-                Nana Varachha, Surat, Gujarat 395006
+                 Surat, Gujarat 395006
               </p>
               <p className="footer-text">
                 <strong>Branch 1 :</strong><br />

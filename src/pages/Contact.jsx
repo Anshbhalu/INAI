@@ -79,8 +79,7 @@ const Contact = () => {
               <IoLocationOutline className="contact-info-icon" />
               <div className="contact-info-content">
                 <strong>Head Office</strong>
-                <p>520, MBH, Bhagavan Nagar, Sarthana Jakat Naka, Sarthi Society, 
-                Nana Varachha, Surat, Gujarat 395006</p>
+                <p>520, MBH, Sarthana Jakat Naka, Surat, Gujarat 395006</p>
               </div>
             </div>
             
@@ -97,7 +96,7 @@ const Contact = () => {
               <IoCallOutline className="contact-info-icon" />
               <div className="contact-info-content">
                 <strong>Phone:</strong>
-                <p>+9170164 88265</p>
+                <p>+91 70164 88265</p>
               </div>
             </div>
             
