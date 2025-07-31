@@ -3,10 +3,10 @@ import './Footer.css';
 import INAILogo from '../assets/INAI.png';
 // Import social media icons
 import instagramIcon from '../assets/footer/instagram.png';
-import youtubeIcon from '../assets/footer/youtube.png';
+import youtubeIcon from '../assets/footer/Youtube.png';
 import pinterestIcon from '../assets/footer/pinterest.png';
 import threadsIcon from '../assets/footer/threads.png';
-import linkedinIcon from '../assets/footer/linkedin.png';
+import linkedinIcon from '../assets/footer/Linkedin.png';
 import twitterIcon from '../assets/footer/x.png';
 
 const Footer = () => {
