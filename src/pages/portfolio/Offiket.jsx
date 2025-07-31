@@ -40,7 +40,6 @@ const Offiket = () => {
                       <h2>Project information</h2>
                       <p><strong>Category : </strong> Office solutions</p>
                       <p><strong>Model : </strong> Buy and Sell solution with AI skills</p>
-                      <p><strong>Project date : </strong> 30-12-2026</p>
                       {/* <p>
                         <strong>Project URL:</strong>{' '}
                         <a href="https://www.instagram.com/influketworld/" target="_blank" rel="noopener noreferrer">

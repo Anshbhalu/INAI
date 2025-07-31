@@ -93,8 +93,8 @@ const Footer = () => {
 
       </footer>
       <div className="footer-bottom">
-        <div className="footer-copyright">
-          <p>{new Date().getFullYear()} All Rights Reserved © 2025 by INAI Worlds Pvt. Ltd.</p>
+      <div className="footer-copyright">
+          <p> All Rights Reserved © {new Date().getFullYear()} by INAI Worlds Pvt. Ltd.</p>
         </div>
         <div className="footer-legal-links">
           <Link to="/Privacy_policy">Privacy Policy</Link>

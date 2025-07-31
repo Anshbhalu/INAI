@@ -39,7 +39,6 @@ const Influwket = () => {
                   <h2>Project information</h2>
                   <p><strong>Category:</strong>Social media model</p>
                   <p><strong>Model:</strong>Gen AI tech with social media featured-services</p>
-                  <p><strong>Project date:</strong>31-12-2025</p>
                   <p>
                     <strong>Project URL:</strong>{' '}
                     <a href="https://www.instagram.com/influketworld/" target="_blank" rel="noopener noreferrer">

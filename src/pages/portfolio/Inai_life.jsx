@@ -36,7 +36,6 @@ function Inai_life() {
               <h2>Project information</h2>
               <p><strong>Category:</strong> AI virtual model</p>
               <p><strong>Model:</strong> CGI with Intelligence skills</p>
-              <p><strong>Project date:</strong> 31-03-2025</p>
               <p>
                 <strong>Project URL:</strong>{' '}
                 <a href="https://www.instagram.com/inai_life/" target="_blank" rel="noopener noreferrer">

@@ -39,7 +39,6 @@ const Veedket = () => {
                   <h2>Project information</h2>
                   <p><strong>Category : </strong> GEN-AI creation</p>
                   <p><strong>Model : </strong> Contain creation with AI</p>
-                  <p><strong>Project date : </strong> 30-11-2027</p>
                   <p>
                     <strong>Project URL:</strong>{' '}
                     <a href="https://www.instagram.com/veedketworld/" target="_blank" rel="noopener noreferrer">
