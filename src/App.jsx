@@ -21,7 +21,7 @@ import What_is_ML from './pages/What_is_ML';
 import What_is_web_scraping from './pages/What_is_web_scraping';
 import Real_life_AI_ML_use from './pages/Real_life_AI_ML_use';
 import Blog5 from './pages/Blog5';
-import Inai_life from './pages/portfolio/inai_life';
+import Inai_life from './pages/portfolio/Inai_life';
 import Influwket from './pages/portfolio/Influwket';
 import Veedket from './pages/portfolio/Veedket';
 import Offiket from './pages/portfolio/Offiket';
