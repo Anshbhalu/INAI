@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Hero from '../components/Hero';
 // import CTA from '../components/CTA';
 import './Services.css';
-import "../components/header.css"
+import "../components/Header.css"
 import EthicalWebScraping from "../assets/services/Ethical_Web_Scraping.png";
 import DataStructuring from "../assets/services/Data_Structuring.png";
 import ModelTraining from "../assets/services/Model_Training.png";
